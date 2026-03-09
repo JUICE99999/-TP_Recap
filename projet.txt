@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 version master
+=======
+pop2
+>>>>>>> feature-calcul
